@@ -11,21 +11,21 @@
     
     <section id="about">
         <h2>About Me</h2>
-        <p>I am John Doe, a passionate web developer with expertise in HTML, CSS, and JavaScript. I have a strong passion for creating user-friendly and visually appealing websites. With over 5 years of experience, I have successfully completed several web development projects.</p>
+        <p>I am Nitish Kumar, a passionate webdevloper and i have intrest in learning different languages andd working in it </p>
     </section>
     
     <section id="accomplishments">
         <h2>Accomplishments</h2>
         <ul>
-            <li>Developed a responsive e-commerce website for a local business, resulting in a 30% increase in online sales.</li>
-            <li>Created a portfolio website showcasing my work, which received positive feedback from clients and peers.</li>
-            <li>Participated in a hackathon and won the first prize for developing an innovative mobile app.</li>
-            <li>Contributed to open-source projects, collaborating with developers from around the world.</li>
+            <li>i have participated in different hackthown </li>
+            <li>Created different types of websites</li>
+            <li>i have earned many cerificates in different language</li>
+            <li>Contributed to open-source projects </li>
         </ul>
     </section>
     
     <footer>
-        <p>&copy; 2023 John Doe. All rights reserved.</p>
+        <p>&copy; 2023 NITISH KUMAR. All rights reserved.</p>
     </footer>
 </body>
 </html>
