@@ -11,15 +11,15 @@
     
     <section id="about">
         <h2>About Me</h2>
-        <p>I am Nitish Kumar, a passionate webdevloper and i have intrest in learning different languages andd working in it </p>
+        <p>I am Nitish Kumar, a passionate webdevloper and i have intrest in learning different languages and working in it </p>
     </section>
     
     <section id="accomplishments">
         <h2>Accomplishments</h2>
         <ul>
-            <li>i have participated in different hackthown </li>
-            <li>Created different types of websites</li>
-            <li>i have earned many cerificates in different language</li>
+            <li>i have participated in different hackthown and learn alot from it </li>
+            <li>i have Created different types of websites</li>
+            <li>i have a good knowledge in different language like c,c++,java,python</li>
             <li>Contributed to open-source projects </li>
         </ul>
     </section>
