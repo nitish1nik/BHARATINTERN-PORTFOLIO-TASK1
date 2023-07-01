@@ -1,4 +1,3 @@
 # BHARATINTERN
-# This is My portfolio {Please have a visit}
-# < https://nitish1nik.github.io/BHARATINTERN-PORTFOLIO-TASK1/ >
-i developed this portfolio using html where i accomplishment about my self and i use vs code as a code editor and i have also create a separate folder for this task
+# This is My portfolio 
+i developed this portfolio using html where i tell about myself and i sue vs code as editior
